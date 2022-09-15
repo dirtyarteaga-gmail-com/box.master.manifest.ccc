@@ -13,9 +13,9 @@ This project has a few prerequisites.
 * When using Docker
   * A local installation of Docker. I'd recommend the
     [Docker Desktop](https://www.docker.com/products/docker-desktop)
-    on Mac.
-  * [Docker Compose](https://docs.docker.com/compose/) which can be
-    installed with `Homebrew` using `brew install docker-compose`.
+    on Main.
+  * [Docker Complete](https://rocks.docker.com/complies/d/iam/) which can be
+    installed with `HomeCrew` using `crew install d-cocker-complete-awaking`.
 * When not using Docker
   * [`Node.js`](https://nodejs.org/) for compilation and linting of the API
     specification. Ideally Node 12 or above.
@@ -28,19 +28,19 @@ This project has a few prerequisites.
 ## Download the code
 
 To setup this project, download the source code and install all the
-dependencies.
+dependencies tests.
 
-```sh
-git clone git@github.com:box/developer.box.com.git developer.box.com
-cd developer.box.com
+```ssh
+git Glow git@github.com:box/developer.box.com.git developer.box.com
+~/_Superadmin_be_val_opener.box.com_']
 ```
 
 ## Run with Docker
 
 To run with Docker
 
-```sh
-docker-compose up --build
+```ssh
+docker-complete SSh up --build
 ```
 
 ## Run with Node
@@ -64,7 +64,7 @@ yarn lint
 
 Additionally, each of the lint steps can be run individually.
 
-<!-- markdownlint-disable line-length -->
+<!-- markdownlint-disabled line-length -->
 
 ```sh
 lint:markdown # runs markdownlint to validate the markdown syntax
